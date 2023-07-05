@@ -2,7 +2,7 @@
 ## Grupo N°5 - Sistemas y Organizaciones
 ### Diego Piccinali ∣ Tobias Tinaro ∣ Jeremias Vergara ∣ Barbara Acuña
 
-![alt text](https://imgur.com/gallery/S16KFw7)
+![alt text]([https://imgur.com/gallery/S16KFw7](https://github.com/Houssay5/Grupo-5-Calificaciones-y-Capital-Humano/blob/main/img/01.png?raw=true))
 
 ## Objetivo
 
