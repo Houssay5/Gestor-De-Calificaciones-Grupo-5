@@ -2,6 +2,8 @@
 ## Grupo N°5 - Sistemas y Organizaciones
 ### Diego Piccinali ∣ Tobias Tinaro ∣ Jeremias Vergara ∣ Barbara Acuña
 
+![alt text](https://imgur.com/gallery/S16KFw7)
+
 ## Objetivo
 
 Desarrollar, en python, un sistema para gestión de calificaciones, estudiantes, asignaturas y profesores usando la metodología de UserStories y SCRUM.
