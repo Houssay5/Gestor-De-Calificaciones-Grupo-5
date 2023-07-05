@@ -22,10 +22,10 @@ Apegándonos al uso que podría dársele dentro de un entorno real, tanto cada p
 
 2 - Establecer la prioridad de cada User Story, clasificándolas por importancia, en este trabajo estas implementaciones están ordenadas en los siguientes grupos:
 
-Tiene que estar
-Debería estar
-Podría estar
-No tiene por qué estar
+* Tiene que estar
+* Debería estar
+* Podría estar
+* No tiene por qué estar
 
 
 3 - Crear un repositorio de GitHub y configurar sus ramas y estructura necesarias para el desarrollo.
@@ -47,7 +47,7 @@ Algunas modificaciones podrían ser, como ya se mencionó, la división en módu
 
 ## Ideas descartadas.
 
-Cómo se mencionó con anterioridad, el uso de una base de datos externa, o la incorporación de una GUI más elaborada e independiente del resto del código, fueron ideas que se barajaron aunque debieron ser descartadas. Pese a que dichas cosas le darían más robustez, complejidad y seguridad al sistemas, se optó por no implementarlas, dado que esto complicaría el desarrollo, lo alargaría en el tiempo, o simplemente el equipo no contaba con los conocimientos necesarios para su implementación, como también lo fueron:
+Cómo se mencionó con anterioridad, el uso de una base de datos externa, o la incorporación de una GUI más elaborada e independiente del resto del código, fueron ideas que se barajaron aunque debieron ser descartadas en el proceso de seleccionar las UserStories. Pese a que dichas cosas le darían más robustez, complejidad y seguridad al sistemas, se optó por no implementarlas, dado que esto complicaría el desarrollo, lo alargaría en el tiempo, o simplemente el equipo no contaba con los conocimientos necesarios para su implementación, como también lo fueron:
 
 * La encriptación y desencriptación de los datos almacenados en los archivos CSV, para mayor seguridad.
 
