@@ -35,7 +35,7 @@ Apegándonos al uso que podría dársele dentro de un entorno real, tanto cada p
 3 - Crear un repositorio de GitHub y configurar sus ramas y estructura necesarias para el desarrollo.
 
 
-4 - Poner las UserStories que se escogieron en el backlog y asignar a cada miembro las tareas que le correspondan en el primer y segundo sprint, estableciendo milestones para tener un proceso de desarrollo lo más ordenado y equitativo posible.
+4 - Colocar las UserStories que se escogieron en el backlog y asignar a cada miembro las tareas que le correspondan en el primer y segundo sprint, estableciendo milestones para tener un proceso de desarrollo lo más ordenado y equitativo posible.
 
 ## Observaciones.
 
