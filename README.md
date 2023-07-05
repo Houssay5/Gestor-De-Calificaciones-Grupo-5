@@ -26,20 +26,6 @@ No tiene por qué estar
 
 3 - Crear un repositorio de GitHub y configurar sus ramas y estructura necesarias para el desarrollo.
 
-A continuación la estructura para el repositorio:
-
-
-proyecto/
-│
-├─ datos/   #Archivos CSV
-│  │
-│  ├─ profesores.csv     # datos de los profesores
-│  ├─ alumnos.csv     # datos de los alumnos
-│  ├─ calificaciones.csv     # datos de las calificaciones
-│  └─ asignaturas.csv     # datos de las asignaturas
-│
-└─ main.py     # funciones e interfaz gráfica del programa
-
 
 4 - Poner las UserStories que elegimos en el backlog y asignar a cada miembro las tareas que le correspondan en el primer Sprint, estableciendo Milestones.
 Observaciones
