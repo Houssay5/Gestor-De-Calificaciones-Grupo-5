@@ -54,3 +54,5 @@ Cómo se mencionó con anterioridad, el uso de una base de datos externa, o la i
 * Sistema de promedios, siendo que este constara de 2 notas base únicas por materia, que se procesen e informen al alumno de su condición de desaprobado, libre, regular o promocional.
 
 * División de estudiantes de cualquier tipo, ya sea por curso, año, carrera, etc.
+
+* Sistema de mensajería interna entre profesor y alumno.
