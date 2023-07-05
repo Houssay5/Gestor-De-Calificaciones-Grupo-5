@@ -4,7 +4,7 @@
 
 ## Objetivo
 
-Desarrollar, en python, un sistema para gestión de calificaciones de estudiantes, usando la metodología de User Story y Scrum
+Desarrollar, en python, un sistema para gestión de calificaciones, estudiantes, asignaturas y profesores usando la metodología de UserStories y SCRUM.
 
 ## Metas
 
@@ -27,19 +27,19 @@ No tiene por qué estar
 3 - Crear un repositorio de GitHub y configurar sus ramas y estructura necesarias para el desarrollo.
 
 
-4 - Poner las UserStories que elegimos en el backlog y asignar a cada miembro las tareas que le correspondan en el primer Sprint, estableciendo Milestones.
-Observaciones
+4 - Poner las UserStories que elegimos en el backlog y asignar a cada miembro las tareas que le correspondan en el primer y segundo Sprint, estableciendo milestones.
+
+## Observaciones
 
 ### ¿Cómo almacenamos los datos?
 
-La implementación de una base de datos complicaría la ejecución del programa en cada computadora en la que se intente usar, por lo que reemplazarla por un método de almacenamiento y gestión de datos local parece ser lo más sencillo.
-En el prototipo que programé se usan archivos CSV (que son como archivos de texto que van almacenando datos, ordenados por filas y columnas como en una base de datos), aunque existen otras formas.
+La implementación de una base de datos complicaría la ejecución del programa en cada computadora en la que se intente usar, por lo que reemplazarla por un método de almacenamiento y gestión de datos local parece ser lo más conveniente.
+En este proyecto se utiliza la capacidad nativa de python de trabajar con archivos CSV que permiten almacenar información organizada por filas y columnas para administrar los datos de manera ordenada.
 
 ### ¿Por qué usar esa estructura de repositorio?
 
-Parece ser la distribución más simple para poder tener una división de ficheros ordenada y al mismo tiempo mantener únicamente las funcionalidades más básicas del sistema de calificaciones.
-Algunas modificaciones podrían ser agregar una carpeta para las pruebas unitarias o de assets en caso de que implementamos una interfaz gráfica GUI en lugar de líneas de comando.
-
+Parece ser la distribución más simple para poder tener una división de ficheros ordenada y al mismo tiempo evitar las división por módulos y su correspondiente importación, que, dada la poca experiencia de los miembros del equipo, complicaría en exceso el desarrollo.
+Algunas modificaciones podrían ser, como ya se mencionó, la división en módulos independientes para las funciones correspondientes a la interfaz, calificaciones, asignaturas, profesores y alumnos, cómo también el uso de Tkinter o TkinterCostume para realizar una GUI más interactiva y visualmente atractiva para el programa, aunque dicha opción se descartó puesto que el tiempo que significaría formar a los miembros del equipo en dichas librerías, y esto excedería los plazos establecidos para la entrega que se estableció al momento del encargo del presente trabajo.
 
 
 
